@@ -1,0 +1,33 @@
+CUSTOM SOURCE-AVAILABLE AND NON-COMMERCIAL LICENSE
+
+Copyright (c) 2026 William Dalton
+All rights reserved.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. DEFINITIONS
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 6 of this document.
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+"Software" shall mean the budget application source code, documentation, and compiled binaries provided under this License.
+
+2. GRANT OF LICENSE FOR PORTFOLIO AND EDUCATIONAL PURPOSES
+Subject to the terms and conditions of this License, Licensor hereby grants You a world-wide, royalty-free, non-exclusive, non-transferable copyright license to:
+a) View, download, and clone the source code of the Software.
+b) Compile and run the Software locally on Your personal machine solely for the purposes of code review, portfolio evaluation, testing, and educational learning.
+
+3. STRICT PROHIBITION ON COMMERCIAL USE
+You are EXPRESSLY FORBIDDEN from using the Software, or any substantial portion of its code, for any commercial purpose. Prohibited commercial uses include, but are not limited to:
+a) Selling, renting, licensing, or sublicensing the Software or derivatives of it.
+b) Hosting the Software as a paid or monetized cloud service, Software-as-a-Service (SaaS), or managed infrastructure.
+c) Using the Software within a commercial enterprise to generate revenue or run business operations.
+d) Bundling the Software inside any product, platform, or package that requires payment or includes advertisements.
+
+4. RESTRICTIONS ON REDISTRIBUTION AND MODIFICATION
+You may not redistribute, publish, or publicly host modified versions of this Software outside of standard platform forks (e.g., GitHub forks) intended for personal study. Any fork or copy of this Software must retain this exact LICENSE file and all original copyright notices.
+
+5. RESERVATION OF RIGHTS
+The Licensor retains all exclusive rights, title, and interest in and to the Software, including the exclusive right to commercialize, sell, host, or monetize the Software now or at any point in the future. 
+
+6. LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
