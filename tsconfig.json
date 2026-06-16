@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true
+  },
+  "files": [],
+  "references": [
+    { "path": "./packages/shared-types" },
+    { "path": "./apps/client" },
+    { "path": "./apps/server" }
+  ]
+}

@@ -1,0 +1,7 @@
+packages:
+  # Include all projects in the "apps" directory
+  - 'apps/*'
+  # Include all projects in the "packages" directory (e.g., shared utils, UI components)
+  - 'packages/*'
+  # Explicitly exclude specific directories if needed
+  - '!**/test/**'
